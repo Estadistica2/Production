@@ -85,7 +85,6 @@ if st.button('Predecir Telas'):
 
 # ------------------------ Footer ------------------------ #
 st.write('-------------------------------------')
-st.write('Desarrollado por [Esteban Flores] ')
-st.write('-------------------------------------')
+st.write('Desarrollado por Esteban Flores - Agosto 2025 ')
 
 # ------------------------ End Streamlit App ------------------------ #
